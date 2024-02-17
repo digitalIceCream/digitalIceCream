@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @digitalIceCream
 - 👀 I’m interested in how technology helps organise society.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning Java, Python, C.
 - 💞️ I’m looking to collaborate on any beginner projects that help me learn.
 - 📫 How to reach me ...
 
